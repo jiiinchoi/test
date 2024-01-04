@@ -7,3 +7,5 @@ git push
 import re
 ```
 ## 2. markdown 기본 문법
+마크다운 작성법
+첫번째 제목을 적을때는 #을 사용한다.
